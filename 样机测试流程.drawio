@@ -140,10 +140,10 @@
           <mxGeometry height="120" width="40" x="129.99" y="730" as="geometry" />
         </mxCell>
         <mxCell id="WQwwcVU2eIMMlDwB7WGr-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;调制频率与调制深度优化&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="320" x="94" y="1280" as="geometry" />
+          <mxGeometry height="40" width="320" x="291" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="WQwwcVU2eIMMlDwB7WGr-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;荧光相位优化&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="320" x="94" y="1340" as="geometry" />
+          <mxGeometry height="40" width="320" x="291" y="1270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
